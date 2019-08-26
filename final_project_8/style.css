@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css?family=Caveat|Cormorant+Garamond:400,400i,700,700i|Shadows+Into+Light&display=swap');
+
+body{
+	background-color: #ff4d4d;
+	font-family: "caveat", sans-serif;
+}
+
+h1{
+text-align: center;
+background color: green;
+font-size: 67px;
+padding: 30px;
+}
+
+p{
+	font-size: 50px;
+	text-align: center;
+
+	;
+}
+#firstlist{
+	background-color: yellow;
+}
+#firstlist li {
+	display:inline-block;
+	margin: 45px; 
+}
+
+img{
+	text-align: auto;
+
+}
